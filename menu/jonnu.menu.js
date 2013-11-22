@@ -2,7 +2,7 @@
  * JONNU menu
  */
 
-if (typeof SKYPE == 'undefined') {
+if (typeof JONNU == 'undefined') {
     var JONNU = {};
 }
 
